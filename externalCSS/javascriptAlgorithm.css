@@ -2,11 +2,9 @@
 	display:none;
 	background:#343a40;
 	color:#fff;
+	text-align:center;
+	padding:5px;
 }
 .soluDiv{
-	margin-top:-15px;
-}
-.preCode{
-	background:#343a40;
-	color:#fff;
+	margin-top:-16px;
 }
